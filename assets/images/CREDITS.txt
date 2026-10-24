@@ -1,0 +1,23 @@
+# Asset Credits and Image Licenses
+
+The images used in this project are custom illustrations created specifically for Eskişehir Technical University (ESTÜ) campus events:
+
+1. `aviation.png`:
+   - Concept: ESTÜ İki Eylül Campus Aviation Hangar, autonomous UAVs, and rocketry workshop.
+   - License: Created for BIM493 assignment, licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+2. `technology.png`:
+   - Concept: ESTÜ Engineering Faculty Robotics, AI, and Quantum Computing Days.
+   - License: Created for BIM493 assignment, licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+3. `sports.png`:
+   - Concept: ESTÜ Rectorate Cup Football Tournament and inter-faculty sports competition.
+   - License: Created for BIM493 assignment, licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+4. `music.png`:
+   - Concept: ESTÜ Acoustic Sunset Concert at grass amphitheater with fairy lights and guitar/violin.
+   - License: Created for BIM493 assignment, licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+5. `arts.png`:
+   - Concept: ESTÜ Faculty of Architecture and Design Contemporary Art and Sculpture Exhibition.
+   - License: Created for BIM493 assignment, licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
